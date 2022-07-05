@@ -1,0 +1,17 @@
+body{
+    /* background-color: aqua; */
+    background-image: url('https://raw.githubusercontent.com/subhabhi/Petitionbystudents/main/assests/images/2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.card{
+    opacity: 0.9;
+    background-color: black;
+    color: white;
+}
+
+/* https://images.unsplash.com/photo-1605470207062-b72b5cbe2a87?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDh8fGNvbGxlZ2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 */
+
